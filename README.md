@@ -7,7 +7,7 @@ Computer Science Student
 Hello! I'm a third-year Computer Science student who is passionate and fascinated by technology. I love tinkering with computers, exploring operating systems, and building programs. I'm inspired by the idea that technology can help create extraordinary things whether it's personal projects, projects that help people, or just building for fun! Technology is a very broad field, and I enjoy discovering and learning about all its aspects 💻.
 
 * 🌍  I'm based in Manila, Philippines.
-* 🖥️  See my portfolio at [https://m4b0.me/Websiteportfolio/]
+* 🖥️  See my portfolio at https://m4b0.me/Websiteportfolio/
 * 🧠  I'm currently learning Advance Machine learning
 * 👥  I'm looking to collaborate on Machine learning based projects
 * 🎵  My favorite song at the moment https://open.spotify.com/track/0EgXLNJJ53VKxJdJkqXIfe?si=81e6addba6914b48
