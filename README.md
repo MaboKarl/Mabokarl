@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-Hello! I’m a third-year Computer Science student who is passionate and fascinated by technology. I love tinkering with computers, exploring operating systems, and building programs. I’m inspired by the idea that technology can help create extraordinary things whether it’s personal projects, projects that help people, or just building for fun! Technology is a very broad field, and I enjoy discovering and learning about all its aspects 💻.
+Hello! I'm a third-year Computer Science student who is passionate and fascinated by technology. I love tinkering with computers, exploring operating systems, and building programs. I'm inspired by the idea that technology can help create extraordinary things whether it's personal projects, projects that help people, or just building for fun! Technology is a very broad field, and I enjoy discovering and learning about all its aspects 💻.
 
 * 🌍  I'm based in Manila, Philippines.
 * 🖥️  See my portfolio at [https://m4b0.me/Websiteportfolio/](http://colorscopeterm11.onrender.com/)
@@ -19,10 +19,20 @@ Hello! I’m a third-year Computer Science student who is passionate and fascina
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/MaboKarl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/karl-mattheus-mago-28405028a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/Mabo102" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
+<table>
+<tr>
+<td>
 <a href="http://www.github.com/MaboKarl"><img src="https://github-readme-stats.vercel.app/api?username=MaboKarl&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="MaboKarl's GitHub stats" /></a>
+</td>
+<td>
+<img src="./assets/captain%20rex.webp" alt="Captain Rex & Ahsoka" width="400" />
+</td>
+</tr>
+</table>
 
 <a href="https://github.com/MaboKarl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaboKarl&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
