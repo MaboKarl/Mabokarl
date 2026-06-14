@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-Hello! I'm a third-year Computer Science student who is passionate and fascinated by technology. I love tinkering with computers, exploring operating systems, and building programs. I'm inspired by the idea that technology can help create extraordinary things whether it's personal projects, projects that help people, or just building for fun! Technology is a very broad field, and I enjoy discovering and learning about all its aspects 💻.
+Hello! I'm a Fourth-year Computer Science student who is passionate and fascinated by technology. I love tinkering with computers, exploring operating systems, and building programs. I'm inspired by the idea that technology can help create extraordinary things whether it's personal projects, projects that help people, or just building for fun! Technology is a very broad field, and I enjoy discovering and learning about all its aspects 💻.
 
 * 🌍  I'm based in Manila, Philippines.
 * 🖥️  See my portfolio at https://mabowebsite.vercel.app
