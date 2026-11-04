@@ -35,7 +35,7 @@ Hello! I'm a Fourth-year Computer Science student who is passionate and fascinat
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
 </p>
 
 ### Socials
@@ -64,25 +64,6 @@ Hello! I'm a Fourth-year Computer Science student who is passionate and fascinat
 </a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<!--
-  Replace YOUR-APP.vercel.app with your own deployed github-readme-stats domain.
-  If you haven't deployed one yet, you can temporarily use github-readme-stats.vercel.app
-  (it may be rate-limited and show errors).
--->
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/MaboKarl"><img src="https://YOUR-APP.vercel.app/api?username=MaboKarl&show_icons=true&count_private=true&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true" alt="MaboKarl's GitHub stats" /></a>
-</td>
-<td>
+<p align="left">
 <img src="./assets/captain%20rex.webp" alt="Captain Rex & Ahsoka" width="400" />
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/MaboKarl"><img src="https://YOUR-APP.vercel.app/api/top-langs/?username=MaboKarl&layout=compact&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+</p>
