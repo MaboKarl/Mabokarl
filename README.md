@@ -54,12 +54,12 @@ I'm inspired by the idea that technology can help create extraordinary things—
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/MaboKarl/PROJECT-2">Featured Project Two</a></h4>
-      <p>Short description of your second standout build—such as a Linux/systems utility, hardware integration, or web/full-stack app.</p>
+      <h4>🧠 <a href="https://github.com/MaboKarl/CCRNFLRL_FINAL_PROJECT">Reinforcement Learning Wordle Solver</a></h4>
+      <p>Built an embedding-based DQN and entropy-greedy Wordle solver that trains and benchmarks reinforcement-learning policies, tests generalization to unseen words, and provides interactive play and a real-time solver assistant. Achieves roughly 95% win rate on a 200-word pool and 85%+ on the 2,309-word answer set.</p>
       <p>
-        <img src="https://img.shields.io/badge/Linux-130924?style=flat-square&logo=linux&logoColor=A78BFA" alt="Linux" />
-        <img src="https://img.shields.io/badge/React-130924?style=flat-square&logo=react&logoColor=A78BFA" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-130924?style=flat-square&logo=nodedotjs&logoColor=A78BFA" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-130924?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
+        <img src="https://img.shields.io/badge/PyTorch-130924?style=flat-square&logo=pytorch&logoColor=A78BFA" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Reinforcement_Learning-130924?style=flat-square&logo=openaigym&logoColor=A78BFA" alt="Reinforcement Learning" />
       </p>
     </td>
   </tr>
