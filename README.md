@@ -40,6 +40,35 @@ I'm inspired by the idea that technology can help create extraordinary things—
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/MaboKarl/PROJECT-1">Featured Project One</a></h4>
+      <p>Short description of what this project does, the problem it solves, or what you built around AI/ML, systems, or tooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-130924?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
+        <img src="https://img.shields.io/badge/Hugging_Face-130924?style=flat-square&logo=huggingface&logoColor=A78BFA" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/Docker-130924?style=flat-square&logo=docker&logoColor=A78BFA" alt="Docker" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ <a href="https://github.com/MaboKarl/PROJECT-2">Featured Project Two</a></h4>
+      <p>Short description of your second standout build—such as a Linux/systems utility, hardware integration, or web/full-stack app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-130924?style=flat-square&logo=linux&logoColor=A78BFA" alt="Linux" />
+        <img src="https://img.shields.io/badge/React-130924?style=flat-square&logo=react&logoColor=A78BFA" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-130924?style=flat-square&logo=nodedotjs&logoColor=A78BFA" alt="Node.js" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
 ### 🛠️ Tech Stack & Toolkit
 
 <table>
