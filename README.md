@@ -1,21 +1,21 @@
 <!-- Top Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Karl%20Mago%20(MABO)&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=4th-Year%20Computer%20Science%20Student%20%7C%20Systems%20%26%20Deep%20Learning&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090512,50:2E1065,100:581C87&height=200&section=header&text=Karl%20Mago%20(MABO)&fontSize=42&fontColor=EDE9FE&fontAlignY=38&desc=4th-Year%20Computer%20Science%20Student%20%7C%20Systems%20%26%20Deep%20Learning&descSize=16&descColor=C4B5FD&descAlignY=58&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Social & Portfolio Pill Badges -->
 <p align="center">
   <a href="https://mabowebsite.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-130924?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/karl-mattheus-mago-28405028a" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-130924?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" />
   </a>
   <a href="https://www.stackoverflow.com/users/Mabo102" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Stack_Overflow-0F172A?style=for-the-badge&logo=stackoverflow&logoColor=38BDF8" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-130924?style=for-the-badge&logo=stackoverflow&logoColor=A78BFA" alt="Stack Overflow" />
   </a>
   <a href="https://www.github.com/MaboKarl" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-130924?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
   </a>
 </p>
 
@@ -101,11 +101,11 @@ I'm inspired by the idea that technology can help create extraordinary things—
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaboKarl&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaboKarl&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaboKarl&show_icons=true&bg_color=130924&title_color=A78BFA&icon_color=7C3AED&text_color=DDD6FE&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaboKarl&layout=compact&bg_color=130924&title_color=A78BFA&text_color=DDD6FE&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <!-- Bottom Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:581C87,50:2E1065,100:090512&height=110&section=footer" width="100%" alt="Footer Banner" />
 </p>
