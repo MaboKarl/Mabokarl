@@ -45,12 +45,12 @@ I'm inspired by the idea that technology can help create extraordinary things—
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/MaboKarl/PROJECT-1">Featured Project One</a></h4>
-      <p>Short description of what this project does, the problem it solves, or what you built around AI/ML, systems, or tooling.</p>
+      <h4>🤖 <a href="https://github.com/MaboKarl/CCRNFLRL_FINAL_PROJECT">Hand Gesture-Controlled PowerPoint</a></h4>
+      <p>Built a YOLOv4 hand-gesture detection system that uses gestures to trigger functions in Microsoft PowerPoint presentations. Trained with an 8,000-image public hand-gesture dataset from Roboflow and labeled using Label Studio.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-130924?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
-        <img src="https://img.shields.io/badge/Hugging_Face-130924?style=flat-square&logo=huggingface&logoColor=A78BFA" alt="Hugging Face" />
-        <img src="https://img.shields.io/badge/Docker-130924?style=flat-square&logo=docker&logoColor=A78BFA" alt="Docker" />
+        <img src="https://img.shields.io/badge/YOLOv4-130924?style=flat-square&logo=opencv&logoColor=A78BFA" alt="YOLOv4" />
+        <img src="https://img.shields.io/badge/Label_Studio-130924?style=flat-square&logoColor=A78BFA" alt="Label Studio" />
+        <img src="https://img.shields.io/badge/Microsoft_PowerPoint-130924?style=flat-square&logo=microsoftpowerpoint&logoColor=A78BFA" alt="Microsoft PowerPoint" />
       </p>
     </td>
     <td width="50%" valign="top">
