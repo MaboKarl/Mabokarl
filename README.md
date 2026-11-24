@@ -1,14 +1,14 @@
 <!-- Top Header Image (Save locally to ./assets/peeper.png to prevent Wix token expiration) -->
 <p align="center">
-  <img src="./assets/peeper.png" width="200" alt="Subnautica Peeper Header" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e310b603-d6d3-40c4-9ef0-662bd9940140/dhlm28t-408b60dc-2bbb-4990-8a3f-de063a361897.png/v1/fill/w_792,h_1009/peeper_subnautica_fanart__by_drawingistoohard_dhlm28t-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExNSIsInBhdGgiOiIvZi9lMzEwYjYwMy1kNmQzLTQwYzQtOWVmMC02NjJiZDk5NDAxNDAvZGhsbTI4dC00MDhiNjBkYy0yYmJiLTQ5OTAtOGEzZi1kZTA2M2EzNjE4OTcucG5nIiwid2lkdGgiOiI8PTg3NSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.emfjcXWk1A6sENPwxlQRm8gzEGu1A6MSDYpT88rpogQ" width="200" alt="Subnautica Peeper Header" />
 </p>
 
-<!-- Animated Typing Header -->
+<!-- 1. Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Fourth-Year+Computer+Science+Student;Reinforcement+Learning+%26+Multi-Agent+Systems;Linux+Tinkerer+%26+OS+Architecture+Explorer" alt="Typing SVG" />
 </p>
 
-<!-- Social, Portfolio & Profile Views Pill Badges -->
+<!-- 5a. Social, Portfolio & Profile Views Pill Badges -->
 <p align="center">
   <a href="https://mabowebsite.vercel.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-130924?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" />
@@ -40,20 +40,7 @@ I'm inspired by the idea that technology can help create extraordinary things—
 - 🧠 **Currently learning:** Deep Learning & Multi-Agent Systems
 - 👥 **Open to collaborate on:** Machine Learning & AI-based projects
 
-<!-- Collapsible Environment & Setup Accordion -->
-<details>
-  <summary><b>⚙️ Current Dev Environment & OS Setup</b></summary>
-  <br/>
-  <ul>
-    <li><b>OS Setup:</b> Dual-OS PC (Windows primary internal + isolated external Linux environment)</li>
-    <li><b>AI / ML Stack:</b> Python 3.12, PyTorch, Gymnasium, CrewAI, Google Colab</li>
-    <li><b>Editor & Shell:</b> VS Code, Bash, Git</li>
-  </ul>
-</details>
-
-<br/>
-
-<!-- Live Spotify Now Playing Widget -->
+<!-- 2. Live Spotify Now Playing Widget -->
 <p align="left">
   <a href="https://open.spotify.com/track/0EgXLNJJ53VKxJdJkqXIfe?si=81e6addba6914b48" target="_blank" rel="noreferrer">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=MaboKarl&cover_image=true&theme=novatorem&show_offline=true&background_color=130924&interchange=true&bar_color=a78bfa&bar_color_cover=false" alt="Spotify Now Playing" />
@@ -63,10 +50,7 @@ I'm inspired by the idea that technology can help create extraordinary things—
 <br clear="right"/>
 <br/>
 
-<!-- Custom Purple Gradient Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=130924,7C3AED,A78BFA,7C3AED,130924&height=3" width="100%" alt="Divider" />
-</p>
+---
 
 ### 🚀 Featured Projects
 
@@ -74,8 +58,6 @@ I'm inspired by the idea that technology can help create extraordinary things—
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/MaboKarl/CCRNFLRL_FINAL_PROJECT">Hand Gesture-Controlled PowerPoint</a></h4>
-      <!-- Uncomment once you upload a demo GIF to ./assets/gesture-preview.gif -->
-      <!-- <p><img src="./assets/gesture-preview.gif" width="100%" alt="Hand Gesture PowerPoint Demo" /></p> -->
       <p>Built a YOLOv4 hand-gesture detection system that uses gestures to trigger functions in Microsoft PowerPoint presentations. Trained with an 8,000-image public hand-gesture dataset from Roboflow and labeled using Label Studio.</p>
       <p>
         <img src="https://img.shields.io/badge/YOLOv4-130924?style=flat-square&logo=opencv&logoColor=A78BFA" alt="YOLOv4" />
@@ -85,8 +67,6 @@ I'm inspired by the idea that technology can help create extraordinary things—
     </td>
     <td width="50%" valign="top">
       <h4>🧠 <a href="https://github.com/MaboKarl/CCRNFLRL_FINAL_PROJECT">Reinforcement Learning Wordle Solver</a></h4>
-      <!-- Uncomment once you upload a demo GIF to ./assets/wordle-preview.gif -->
-      <!-- <p><img src="./assets/wordle-preview.gif" width="100%" alt="RL Wordle Solver Demo" /></p> -->
       <p>Built an embedding-based DQN and entropy-greedy Wordle solver that trains and benchmarks reinforcement-learning policies, tests generalization to unseen words, and provides interactive play and a real-time solver assistant. Achieves roughly 95% win rate on a 200-word pool and 85%+ on the 2,309-word answer set.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-130924?style=flat-square&logo=python&logoColor=A78BFA" alt="Python" />
@@ -99,10 +79,7 @@ I'm inspired by the idea that technology can help create extraordinary things—
 
 <br/>
 
-<!-- Custom Purple Gradient Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=130924,7C3AED,A78BFA,7C3AED,130924&height=3" width="100%" alt="Divider" />
-</p>
+---
 
 ### 🛠️ Tech Stack & Toolkit
 
@@ -160,33 +137,26 @@ I'm inspired by the idea that technology can help create extraordinary things—
 
 <br/>
 
-<!-- Custom Purple Gradient Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=130924,7C3AED,A78BFA,7C3AED,130924&height=3" width="100%" alt="Divider" />
-</p>
+---
 
 ### 📊 GitHub Activity
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaboKarl&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaboKarl&show_icons=true&bg_color=130924&title_color=A78BFA&icon_color=7C3AED&text_color=DDD6FE&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaboKarl&layout=compact&bg_color=130924&title_color=A78BFA&text_color=DDD6FE&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
+<!-- 3. GitHub Streak Card -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MaboKarl&background=130924&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=DDD6FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Contribution Snake Animation -->
+<!-- 4. Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/MaboKarl/MaboKarl/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<!-- Waving Purple Footer Banner -->
+<!-- 5b. Waving Purple Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=130924&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
