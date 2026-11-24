@@ -1,9 +1,14 @@
-<!-- Top Header Image -->
+<!-- Top Header Image (Save locally to ./assets/peeper.png to prevent Wix token expiration) -->
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e310b603-d6d3-40c4-9ef0-662bd9940140/dhlm28t-408b60dc-2bbb-4990-8a3f-de063a361897.png/v1/fill/w_792,h_1009/peeper_subnautica_fanart__by_drawingistoohard_dhlm28t-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExNSIsInBhdGgiOiIvZi9lMzEwYjYwMy1kNmQzLTQwYzQtOWVmMC02NjJiZDk5NDAxNDAvZGhsbTI4dC00MDhiNjBkYy0yYmJiLTQ5OTAtOGEzZi1kZTA2M2EzNjE4OTcucG5nIiwid2lkdGgiOiI8PTg3NSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.emfjcXWk1A6sENPwxlQRm8gzEGu1A6MSDYpT88rpogQ" width="200" alt="Subnautica Peeper Header" />
 </p>
 
-<!-- Social & Portfolio Pill Badges -->
+<!-- 1. Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Fourth-Year+Computer+Science+Student;Reinforcement+Learning+%26+Multi-Agent+Systems;Linux+Tinkerer+%26+OS+Architecture+Explorer" alt="Typing SVG" />
+</p>
+
+<!-- 5a. Social, Portfolio & Profile Views Pill Badges -->
 <p align="center">
   <a href="https://mabowebsite.vercel.app" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-130924?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" />
@@ -17,6 +22,7 @@
   <a href="https://www.github.com/MaboKarl" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-130924?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=MaboKarl&color=130924&labelColor=130924&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <br/>
@@ -33,7 +39,13 @@ I'm inspired by the idea that technology can help create extraordinary things—
 - 🌍 **Based in:** Manila, Philippines
 - 🧠 **Currently learning:** Deep Learning & Multi-Agent Systems
 - 👥 **Open to collaborate on:** Machine Learning & AI-based projects
-- 🎵 **On repeat:** [Current Favorite Track on Spotify](https://open.spotify.com/track/0EgXLNJJ53VKxJdJkqXIfe?si=81e6addba6914b48)
+
+<!-- 2. Live Spotify Now Playing Widget -->
+<p align="left">
+  <a href="https://open.spotify.com/track/0EgXLNJJ53VKxJdJkqXIfe?si=81e6addba6914b48" target="_blank" rel="noreferrer">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=MaboKarl&cover_image=true&theme=novatorem&show_offline=true&background_color=130924&interchange=true&bar_color=a78bfa&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 <br clear="right"/>
 <br/>
@@ -132,4 +144,19 @@ I'm inspired by the idea that technology can help create extraordinary things—
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaboKarl&show_icons=true&bg_color=130924&title_color=A78BFA&icon_color=7C3AED&text_color=DDD6FE&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaboKarl&layout=compact&bg_color=130924&title_color=A78BFA&text_color=DDD6FE&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<!-- 3. GitHub Streak Card -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaboKarl&background=130924&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=DDD6FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- 4. Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaboKarl/MaboKarl/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<!-- 5b. Waving Purple Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=130924&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
