@@ -57,7 +57,7 @@ I'm inspired by the idea that technology can help create extraordinary things—
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/MaboKarl/CCRNFLRL_FINAL_PROJECT">Hand Gesture-Controlled PowerPoint</a></h4>
+      <h4>🤖 <a href="https://github.com/MaboKarl/StreamlitDeeplearning">Hand Gesture-Controlled PowerPoint</a></h4>
       <p>Built a YOLOv4 hand-gesture detection system that uses gestures to trigger functions in Microsoft PowerPoint presentations. Trained with an 8,000-image public hand-gesture dataset from Roboflow and labeled using Label Studio.</p>
       <p>
         <img src="https://img.shields.io/badge/YOLOv4-130924?style=flat-square&logo=opencv&logoColor=A78BFA" alt="YOLOv4" />
